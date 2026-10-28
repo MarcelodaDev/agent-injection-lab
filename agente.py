@@ -42,7 +42,7 @@ ESQUEMA = [
         "type": "function",
         "function": {
             "name": "leer_documento",
-            "description": "Lee un documento de la carpeta docs por su nombre.",
+            "description": "Lee un documento de la carpeta docs. Pasa solo el nombre del archivo, por ejemplo 'informe1.txt'.",
             "parameters": {
                 "type": "object",
                 "properties": {"nombre": {"type": "string"}},
