@@ -17,7 +17,7 @@ Investigación sobre qué tan bien resisten los agentes basados en LLM a la **in
 | Nivel | Descripción | Estado |
 |---|---|---|
 | 0 | Entorno, agente mínimo y línea base sin ataque | Completado |
-| 1 | Primer ataque (documento envenenado) | Pendiente |
+| 1 | Primer ataque (documento envenenado) | Completado |
 | 2 | Catálogo de ataques y tasa de éxito por modelo | Pendiente |
 | 3 | Implementación y evaluación de defensas | Pendiente |
 | 4 | Ataques adaptativos / ataques en español | Pendiente |
@@ -95,7 +95,7 @@ How well do prompt-based defenses resist indirect prompt injection compared to a
 | Level | Description | Status |
 |---|---|---|
 | 0 | Environment, minimal agent and no-attack baseline | Completed |
-| 1 | First attack (poisoned document) | Pending |
+| 1 | First attack (poisoned document) | Completed |
 | 2 | Attack catalog and success rate per model | Pending |
 | 3 | Defense implementation and evaluation | Pending |
 | 4 | Adaptive attacks / attacks in Spanish | Pending |
